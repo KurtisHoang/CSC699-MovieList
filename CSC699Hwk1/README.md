@@ -23,5 +23,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+Bonus: Run your app on a real device.
+
+<a href="https://imgur.com/YhqCjVA"><img src="https://i.imgur.com/YhqCjVA.mp4" title="source: imgur.com" /></a>
+
 ### Notes
 I didn't have much problem with doing this assignment. However, I had help with setting up cocoa pods for the lab and managed to use it for the assignment.
