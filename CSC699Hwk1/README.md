@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Bonus: Run your app on a real device.
 
-<iframe class="imgur-embed" width="100%" height="1067" frameborder="0" src="https://i.imgur.com/rPvWLrX.gifv#embed"></iframe>
+<a href="https://imgur.com/bdfICZh"><img src="https://i.imgur.com/bdfICZh.gif" title="source: imgur.com" /></a>
 
 ### Notes
 I didn't have much problem with doing this assignment. However, I had help with setting up cocoa pods for the lab and managed to use it for the assignment.
