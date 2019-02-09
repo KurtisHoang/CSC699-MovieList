@@ -25,5 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Bonus: Run your app on a real device.
 
+<a href="https://imgur.com/2nWFR1F"><img src="https://i.imgur.com/2nWFR1F.mp4" title="source: imgur.com" /></a>
+
 ### Notes
 I didn't have much problem with doing this assignment. However, I had help with setting up cocoa pods for the lab and managed to use it for the assignment.
