@@ -21,9 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<a href="https://imgur.com/bdfICZh"><img src="https://i.imgur.com/bdfICZh.gif" title="source: imgur.com" /></a>
-
-<iframe class="imgur-embed" width="100%" height="297" frameborder="0" src="https://i.imgur.com/ZiTrPIW.gifv#embed"></iframe>
+<a href="https://imgur.com/r0Vygwz"><img src="https://i.imgur.com/r0Vygwz.gif" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -49,14 +47,9 @@ I didn't have much trouble with the base project. But I was trying to do the aut
 
 Bonus: Run your app on a real device.
 
-<<<<<<< HEAD
 <a href="https://imgur.com/2nWFR1F"><img src="https://i.imgur.com/2nWFR1F.mp4" title="source: imgur.com" /></a>
 
-=======
->>>>>>> 3a2c7148d938dabf60680244f27430cbaf07470d
-=======
 <a href="https://imgur.com/bdfICZh"><img src="https://i.imgur.com/bdfICZh.gif" title="source: imgur.com" /></a>
 
->>>>>>> 4ddd54f1f453ea21c9dacb706e9e09f3f09eb964
 ### Notes
 I didn't have much problem with doing this assignment. However, I had help with setting up cocoa pods for the lab and managed to use it for the assignment.
