@@ -38,7 +38,16 @@ class MovieTrailerViewController: UIViewController {
                 //cast as an array of dictionary
             
                 let movies = dataDictionary["results"] as! [[String:Any]]
-                self.movie = movies[0]
+                for var i in 0..<movies.count
+                {
+                    var currTrailer = movies[i]
+                    let type = currTrailer["type"] as! String
+                    if(type == "Trailer")
+                    {
+                        self.movie = movies[i]
+                        i = movies.count
+                    }
+                }
 
                 let movieKey = self.movie["key"] as! String
                 let trailerURL = URL(string: self.baseURL + movieKey)
