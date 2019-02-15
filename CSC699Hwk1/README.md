@@ -4,32 +4,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
-## Flix Part 2
-
-### User Stories
-
-#### REQUIRED (10pts)
-- [x] (5pts) User can tap a cell to see more details about a particular movie.
-- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
-
-#### BONUS
-- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [x] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
-
-#### EXTRAS
-- [x] works in landscape orientation
-
-### App Walkthough GIF
-
-<a href="https://imgur.com/bdfICZh"><img src="https://i.imgur.com/bdfICZh.gif" title="source: imgur.com" /></a>
-
-<iframe class="imgur-embed" width="100%" height="297" frameborder="0" src="https://i.imgur.com/ZiTrPIW.gifv#embed"></iframe>
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-### Notes
-I didn't have much trouble with the base project. But I was trying to do the auto layout for when the orientation is in landscape mode, the text would stay on one side of the scrollview than taking up the full width of the scrollview.
-
 ## Flix Part 1
 
 ### User Stories
@@ -47,13 +21,9 @@ I didn't have much trouble with the base project. But I was trying to do the aut
 
 <a href="https://imgur.com/MsSdlY9"><img src="https://i.imgur.com/MsSdlY9.gif" title="source: imgur.com" /></a>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 Bonus: Run your app on a real device.
 
-<a href="https://imgur.com/2nWFR1F"><img src="https://i.imgur.com/2nWFR1F.mp4" title="source: imgur.com" /></a>
+<a href="https://imgur.com/bdfICZh"><img src="https://i.imgur.com/bdfICZh.gif" title="source: imgur.com" /></a>
 
-=======
->>>>>>> 3a2c7148d938dabf60680244f27430cbaf07470d
 ### Notes
 I didn't have much problem with doing this assignment. However, I had help with setting up cocoa pods for the lab and managed to use it for the assignment.
