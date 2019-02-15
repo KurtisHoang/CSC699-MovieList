@@ -87,14 +87,29 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
      paste row height in tableview row height
      */
 
-    /*
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
+        
+        //sender is the cell that was tapped on
+        
+        //find the selected movie
+        let cell = sender as! UITableViewCell
+        let indexPath = flixsterTableView.indexPath(for: cell)!
+        let movie = movies[indexPath.row]
+        
+        // pass the selected movie to the details vc
+        let detailsViewController = segue.destination as! MovieDetailsViewController
+        
+        detailsViewController.movie = movie
+        detailsViewController.num = 1
+        
+        flixsterTableView.deselectRow(at: indexPath, animated: true)
     }
-    */
+    
 
 }
